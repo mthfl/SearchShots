@@ -1,5 +1,5 @@
 import React from 'react'
-import InputSearch from './components/InputSearch'
+import '../src/index.css'
 import ImageGallery from './components/photo'
 
 
@@ -10,9 +10,7 @@ function App() {
 
             <header>
 
-                <div className="justify-center flex items-center p-4 ">
-                    <InputSearch />
-                </div>
+              
 
 
                 <div>
