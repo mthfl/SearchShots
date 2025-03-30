@@ -2,7 +2,7 @@
 
 A free photo search tool using the Unsplash API  
 
-🔗 **access now:** [Access project](https://mthfl.github.io/SearchShots/)  
+🔗 **access now:** [Click here](https://mthfl.github.io/SearchShots/)  
 
 ## Technologies Used  
 - React  
